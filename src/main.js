@@ -20,6 +20,15 @@ The game is endless!!!!
 The game starts easily and slowly progresses, so new player can have fun!
 No errors!
 Credits are giving at the title screen!
+
+
+
+
+
+
+2023/6/11 update:
+Added texture atlus for the enemies.
+Added a small laser that kills the enemy who run into it, the lasor's position changes while the ship moves!!!!(took me hours!)
 */
 
 'use strict';

@@ -57,7 +57,7 @@ class GameOver extends Phaser.Scene {
             });
 
             this.sound.play('respawn', { volume: 0.5 });
-            this.scene.start('playScene');
+            this.scene.start('loadScene');
         }
     }
 }

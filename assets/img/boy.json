@@ -1,0 +1,39 @@
+{
+    "frames": [
+      {
+        "filename": "wow01",
+        "frame": {"x": 0, "y": 0, "w": 50, "h": 46},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x": 0, "y": 0, "w": 50, "h": 46},
+        "sourceSize": {"w": 50, "h": 46}
+      },
+
+      {
+        "filename": "wow02",
+        "frame": {"x": 50, "y": 0, "w": 50, "h": 46},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x": 0, "y": 0, "w": 50, "h": 46},
+        "sourceSize": {"w": 50, "h": 46}
+      },
+
+      {
+        "filename": "wow03",
+        "frame": {"x": 100, "y": 0, "w": 50, "h": 46},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x": 0, "y": 0, "w": 50, "h": 46},
+        "sourceSize": {"w": 50, "h": 46}
+      }
+
+    ],
+    "meta": {
+      "app": "Your App",
+      "version": "1.0",
+      "image": "boy.png",
+      "format": "RGBA8888",
+      "size": {"w": 300, "h": 400},
+      "scale": "1"
+    }
+  }

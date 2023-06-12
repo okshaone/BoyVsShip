@@ -19,7 +19,8 @@ class Load extends Phaser.Scene {
 
 
         this.load.image('ship', 'img/ship.png');
-        this.load.image('boy', 'img/boy.png');
+        this.load.atlas('boy', 'img/boy.png', 'img/boy.json');
+
         this.load.image('fragment', 'img/fragment.png');
         this.load.image('star', 'img/star.png');
 
